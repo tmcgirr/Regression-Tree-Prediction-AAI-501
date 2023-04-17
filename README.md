@@ -7,6 +7,11 @@ This project aims to predict customer wine purchase behavior using machine learn
 * [Wine Prediction Model Notebook](Wine_Prediction_model.ipynb)
 * [Project Report](Customer_Purchase_Prediction_using_Machine_Learning.pdf)
 
+## Performance and Results
+![Feature_importance](https://user-images.githubusercontent.com/59525360/232598492-de11c13e-6aa1-479b-aaf0-0b64616f72c2.png)
+![Performance](https://user-images.githubusercontent.com/59525360/232598494-6fe17202-d849-499f-aa62-fdd67e42c520.png)
+
+
 Wine Prediction Model Notebook
 -----------------------------
 [This](Wine_Prediction_model.ipynb) Jupyter notebook contains the detailed analysis and modeling process for predicting customer wine purchasing behavior using various machine learning models. The Extra Tree Regressor model was found to have the highest R^2 value, indicating its ability to predict the amount of wine a customer would purchase.
