@@ -4,8 +4,8 @@ This project aims to predict customer wine purchase behavior using machine learn
 
 ## Table of Contents
 
-* [Wine Prediction Model Notebook](#Wine_Prediction_model.ipynb)
-* [Project Report](#Customer_Purchase_Prediction_using_Machine_Learning.pdf)
+* [Wine Prediction Model Notebook](Wine_Prediction_model.ipynb)
+* [Project Report](Customer_Purchase_Prediction_using_Machine_Learning.pdf)
 
 Wine Prediction Model Notebook
 -----------------------------
